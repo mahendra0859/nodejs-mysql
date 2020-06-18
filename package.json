@@ -1,7 +1,7 @@
 {
   "name": "nodejs-mysql",
   "version": "1.0.0",
-  "description": "Tutorial | Building CRUD App with Node.js Express and MySQL",
+  "description": "Building CRUD App with Node.js Express and MySQL",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js"
