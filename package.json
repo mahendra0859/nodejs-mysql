@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-mysql",
+  "version": "1.0.0",
+  "description": "Tutorial | Building CRUD App with Node.js Express and MySQL",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahendra0859/nodejs-mysql.git"
+  },
+  "keywords": [
+    "NodeJS, MySQL"
+  ],
+  "author": "Mahendra AR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahendra0859/nodejs-mysql/issues"
+  },
+  "homepage": "https://github.com/mahendra0859/nodejs-mysql#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
